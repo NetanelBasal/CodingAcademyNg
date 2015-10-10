@@ -1,0 +1,22 @@
+{
+  "name": "CodingAcademy",
+  "version": "0.0.1",
+  "homepage": "CodingAcademy",
+  "authors": [
+    "netanelbasal <netanel7799@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
